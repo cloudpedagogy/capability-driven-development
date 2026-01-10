@@ -186,12 +186,25 @@ Capability-Driven Development is a **living method**.
 Stability is treated as a governance concern, not an assumption.
 
 
-## License
+---
 
-This repository is released under the  
-**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License (CC BY-NC-SA 4.0).**
+## 📜 Licence
 
-You are free to share and adapt the material for non-commercial purposes, provided appropriate credit is given and derivatives are shared under the same licence.
+This repository is licensed under the
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.
+
+You may:
+- Use, share, and adapt this work for educational, research, and public-interest purposes
+- Do so with appropriate attribution
+- Share adaptations under the same licence
+
+You may not:
+- Use this work for commercial purposes
+- Resell, sublicense, or incorporate it into paid products, services, or platforms
+without explicit permission
+
+Full licence text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ---
 
