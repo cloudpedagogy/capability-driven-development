@@ -193,9 +193,13 @@ This repository is released under the
 
 You are free to share and adapt the material for non-commercial purposes, provided appropriate credit is given and derivatives are shared under the same licence.
 
+---
 
+## About CloudPedagogy
 
+CloudPedagogy develops open, governance-credible resources for building confident, responsible AI capability across education, research, and public service.
 
-
+- Website: https://www.cloudpedagogy.com/
+- Framework: https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework
 
 
