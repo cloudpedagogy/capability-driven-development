@@ -1,57 +1,61 @@
-LICENSE
-
 Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International
 (CC BY-NC-SA 4.0)
 
-This repository, Capability-Driven Development (CDD), is released under the
+This repository is released under the
 Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International Licence
 (CC BY-NC-SA 4.0).
 
 You are free to:
 
-• Share — copy and redistribute the material in any medium or format
-• Adapt — remix, transform, and build upon the material
+• Share — copy and redistribute the material in any medium or format  
+• Adapt — remix, transform, and build upon the material  
 
 Under the following terms:
 
-Attribution
+Attribution  
 You must give appropriate credit, provide a link to the licence, and indicate if changes were made.
-Attribution should reference CloudPedagogy and the Capability-Driven Development (CDD) methodology.
+Attribution should normally reference CloudPedagogy and the relevant framework,
+method, or resource associated with this repository.
 
-NonCommercial
+NonCommercial  
 You may not use the material for commercial purposes without explicit permission.
 
-ShareAlike
-If you remix, transform, or build upon the material, you must distribute your contributions under the same licence.
+ShareAlike  
+If you remix, transform, or build upon the material, you must distribute your
+contributions under the same licence.
 
 Scope and Intent
 
-This licence applies to all content in this repository, including:
+This licence applies to all content in this repository, including documentation,
+framework descriptions, methodologies, design artefacts, examples, prompts,
+and reflection materials.
 
-• Capability-Driven Development method documentation
-• Design artefacts, patterns, and examples
-• Supporting prompts and reflection materials
-
-The intent of this licence is to encourage open, responsible reuse of the method for education, research, public service, and non-commercial professional practice, while protecting against uncredited or extractive commercial use.
+The intent of this licence is to encourage open, responsible reuse for education,
+research, public service, and non-commercial professional practice, while
+protecting against uncredited or extractive commercial use.
 
 No Additional Restrictions
 
-You may not apply legal terms or technological measures that legally restrict others from doing anything the licence permits.
+You may not apply legal terms or technological measures that legally restrict
+others from doing anything the licence permits.
 
-Relationship to the AI Capability Framework
+Relationship to the CloudPedagogy ecosystem
 
-Capability-Driven Development is designed to be used alongside the CloudPedagogy AI Capability Framework, which is licensed separately under the same CC BY-NC-SA 4.0 terms.
+This repository is part of the CloudPedagogy ecosystem and is designed to be
+used alongside other CloudPedagogy frameworks and tools, which may be licensed
+separately under compatible terms.
 
-This licence does not grant permission to imply endorsement, certification, or official adoption by CloudPedagogy or affiliated institutions.
+This licence does not grant permission to imply endorsement, certification,
+or official adoption by CloudPedagogy or affiliated institutions.
 
 Commercial Use and Institutional Adoption
 
 For enquiries regarding:
 
-• commercial licensing
-• institutional adoption
-• consultancy or bespoke development
-• integration into proprietary platforms or products
+• commercial licensing  
+• institutional adoption  
+• consultancy or bespoke development  
+• integration into proprietary platforms or products  
 
 Please contact:
 
@@ -62,5 +66,4 @@ Full Licence Text
 The full legal text of the licence is available at:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-© CloudPedagogy, 2026
-Capability-Driven Development (CDD)
+© CloudPedagogy
