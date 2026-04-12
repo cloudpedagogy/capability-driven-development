@@ -2,6 +2,25 @@
 
 **A capability-first approach to designing AI-enabled software systems**
 
+## 🔗 Role in the CloudPedagogy Ecosystem
+
+**Phase:** Phase 5 — Infrastructure / Meta Layer
+
+**Role:**
+The foundational meta-methodology and design guide that defines how all tools in the ecosystem are engineered for governance and capability alignment.
+
+**Upstream Inputs:**
+Primary research, institutional policy requirements, and institutional maturity feedback.
+
+**Downstream Outputs:**
+Guides the structural and functional design of every tool in Phases 1 through 4.
+
+**Does NOT:**
+- Function as a code library or deployment environment.
+- Perform automated auditing or data processing.
+
+For a full system overview, see: [SYSTEM_OVERVIEW.md](../SYSTEM_OVERVIEW.md)
+
 ---
 
 ## Overview

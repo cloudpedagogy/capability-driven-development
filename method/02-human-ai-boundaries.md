@@ -179,6 +179,17 @@ Well-designed boundaries make responsible behaviour the *path of least resistanc
 
 ---
 
+## Operationalising with CloudPedagogy
+
+To translate **Human-AI Boundaries** into enforceable logic, the following tool is recommended:
+
+- **Human-AI Decision Record**: Use this to map and exercise the "Human Decision Zone". It forces the distinction between AI-generated context and human decisional output, capturing the rationale for every boundary crossing.
+
+### Artifact Output
+This tool produces a `decision-summary.json` record that identifies the specific actors (human vs. AI) and the points of intervention. This record is essential for the Step 04 (Governance) dashboard.
+
+---
+
 ## Summary
 
 Human–AI boundaries determine how responsibility is enacted in practice.

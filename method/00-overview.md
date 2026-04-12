@@ -57,9 +57,42 @@ Capability-Driven Development rests on a small number of explicit assumptions:
 
 These assumptions inform both the order and content of the method steps.
 
----
+## The CDD Lifecycle
 
-## The Method in Brief
+```mermaid
+graph TD
+    A[01 Intent] --> B[02 Boundaries]
+    B --> C[03 Risk & Equity]
+    C --> D[04 Governance]
+    D --> E[05 System Design]
+    E --> F[06 Evaluation]
+    F --> G[07 Iteration]
+    G --> H[08 Retirement]
+    
+    subgraph "Operational Proof"
+    D1[Strategic Alignment]
+    D2[AI Scoping]
+    D3[Human Decisions]
+    D4[Audit Trail]
+    end
+```
+
+## System Mapping: Theory to Execution
+
+Capability-Driven Development stages map directly to the CloudPedagogy ecosystem layers and tools:
+
+| CDD Phase | System Layer | Primary Tooling |
+|:---|:---|:---|
+| **01 Intent** | Concept | Course Engine (.yml), Capability Studio |
+| **02 Boundaries** | Logic | Human-AI Decision Record |
+| **03 Risk & Equity** | Ethics | Risk Scanner, Alignment Engine |
+| **04 Governance** | Oversight | Programme Governance Dashboard |
+| **05 System Design** | Infrastructure | Shared Module Repository, Integration SDK |
+| **06 Evaluation** | Feedback | Capability Assessment Tool |
+| **07 Iteration** | Evolution | Curriculum Refactoring Tool |
+| **08 Retirement** | Lifecycle | Shared Module Repository (Deprecation) |
+
+---
 
 Capability-Driven Development follows a deliberate, ordered sequence.
 

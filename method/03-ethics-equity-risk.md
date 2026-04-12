@@ -144,15 +144,15 @@ Ethical design is not about eliminating all risk, but about **deciding responsib
 
 ---
 
-## Summary
+## Operationalising with CloudPedagogy
 
-This step ensures that Capability-Driven Development does not treat ethics and equity as external constraints, but as **core design considerations**.
+To translate **Ethics, Equity, and Risk** considerations into verifiable outcomes, the following tools are recommended:
 
-By addressing ethics, equity, and risk early, CDD helps ensure that AI-enabled systems:
+- **AI Governance Risk Scanner**: Use this to assess specific risk signals (capability erosion, transparency, bias) against your defined intent. It provides a diagnostic layer for identifying high-risk areas before deployment.
+- **Curriculum Alignment Engine**: Use this to map learning outcomes and skills gaps, ensuring that equity of coverage is maintained across diverse learner pathways.
 
-- do not quietly entrench inequality
-- remain accountable to those affected by their use
-- can be defended ethically as well as technically
+### Artifact Output
+These tools contribute findings to the `risk-assessment.json` record, which serves as the evidence base for your mitigation strategies.
 
 ---
 

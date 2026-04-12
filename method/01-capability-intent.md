@@ -167,17 +167,17 @@ Capability intent is not immutable, but it should not drift silently.
 
 ---
 
-## Summary
+---
 
-Capability intent establishes **why a system should exist at all** from a capability perspective.
+## Operationalising with CloudPedagogy
 
-By defining intent before automation, Capability-Driven Development ensures that:
+To translate **Capability Intent** into executable data, the following tools are recommended:
 
-- systems serve human capability rather than reshape it by default
-- governance is grounded in purpose
-- design decisions remain defensible over time
+- **Course Engine**: Use for "Syllabus-as-Code" authoring. Capture intent within the `course.yml` scoping declarations.
+- **AI Capability Studio**: Use for collaborative human-AI decision exercises. Capture high-level design intent during the initial project scoping phase.
 
-This step sets the ethical and operational foundation for everything that follows.
+### Artifact Output
+These tools produce a `manifest.json` containing the **Governance Self-Audit** score, which anchors the capability intent for all downstream tools.
 
 ---
 

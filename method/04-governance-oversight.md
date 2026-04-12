@@ -153,15 +153,14 @@ Effective governance makes responsible behaviour the default, not the exception.
 
 ---
 
-## Summary
+## Operationalising with CloudPedagogy
 
-This step ensures that Capability-Driven Development produces systems that are:
+To translate **Governance and Oversight** design into persistent system properties, the following tool is recommended:
 
-- accountable in practice, not just in principle
-- transparent and contestable
-- robust under institutional, regulatory, and public scrutiny
+- **Programme Governance Dashboard**: Use this as the authoritative "Syllabus Audit" view. It aggregates manifests from Course Engine, decision records from Studio, and risk assessments to produce a maturity score and a live governance status report.
 
-By designing governance and oversight into systems from the outset, CDD supports long-term trust and defensibility.
+### Artifact Output
+This tool consumes `adapter-output.json` from the Integration SDK and produces a `maturity-report.md`, which serves as the evidence submission for institutional review.
 
 ---
 
