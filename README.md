@@ -31,6 +31,16 @@ It provides a structured method for translating **human, organisational, and ins
 
 CDD is designed to be used alongside the **CloudPedagogy AI Capability Framework**, helping builders, designers, and institutions ensure that AI-enabled systems remain responsible, governable, and defensible as technologies evolve.
 
+### Publication
+
+The full Capability-Driven Development method is described in:
+
+**Wong, Jonathan (2026). _Capability-Driven Development: Designing Responsible Human–AI Systems — A practical method for building governable AI-enabled systems_. CloudPedagogy.**
+
+**DOI:** https://doi.org/10.5281/zenodo.190099362
+
+This repository provides the evolving practical resources, design artefacts, patterns, and examples that support application of the published method.
+
 ---
 
 ## Why Capability-Driven Development Exists
